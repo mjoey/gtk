@@ -1,0 +1,5 @@
+style "user-font" {
+        font_name = "DejaVu Sans 6"
+}
+widget_class "*" style "user-font"
+gtk-font-name="DejaVu Sans 6"
